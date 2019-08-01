@@ -4,6 +4,6 @@
   $host = "localhost";
   $dbName = "wphacks";
   $username = "root";
-  $password = "caca1234";
+  $password = "";
   $dbCon = new PDO("mysql:host=".$host.";dbname=".$dbName, $username, $password);
 ?>
